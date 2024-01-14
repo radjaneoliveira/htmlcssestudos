@@ -1,0 +1,10 @@
+[Thu Jan 11 14:15:15.871773 2024] [fcgid:warn] [pid 2272:tid 1352] [client 127.0.0.1:51634] mod_fcgid: read timeout from pipe, referer: http://jobsrad.local/wp-admin/plugin-install.php?s=elementor&tab=search&type=term
+[Thu Jan 11 14:15:15.871773 2024] [core:error] [pid 2272:tid 1352] [client 127.0.0.1:51634] End of script output before headers: admin-ajax.php, referer: http://jobsrad.local/wp-admin/plugin-install.php?s=elementor&tab=search&type=term
+[Thu Jan 11 14:18:52.440767 2024] [fcgid:warn] [pid 2272:tid 1368] [client 127.0.0.1:52014] mod_fcgid: read timeout from pipe, referer: http://jobsrad.local/wp-admin/themes.php
+[Thu Jan 11 14:18:52.441763 2024] [fcgid:warn] [pid 2272:tid 1368] (138)timed out: [client 127.0.0.1:52014] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function, referer: http://jobsrad.local/wp-admin/themes.php
+[Thu Jan 11 14:32:51.735693 2024] [fcgid:warn] [pid 2272:tid 1368] [client 127.0.0.1:52227] mod_fcgid: read timeout from pipe, referer: http://jobsrad.local/wp-admin/
+[Thu Jan 11 14:32:51.735693 2024] [fcgid:warn] [pid 2272:tid 1368] (138)timed out: [client 127.0.0.1:52227] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function, referer: http://jobsrad.local/wp-admin/
+[Thu Jan 11 22:27:47.002672 2024] [fcgid:warn] [pid 448:tid 1368] (OS 109)O pipe foi finalizado.  : [client 127.0.0.1:54734] mod_fcgid: get overlap result error
+[Thu Jan 11 22:27:47.003672 2024] [core:error] [pid 448:tid 1368] [client 127.0.0.1:54734] End of script output before headers: index.php
+[Thu Jan 11 22:27:47.986066 2024] [fcgid:warn] [pid 448:tid 1368] (OS 109)O pipe foi finalizado.  : [client 127.0.0.1:54740] mod_fcgid: get overlap result error
+[Thu Jan 11 22:27:47.986066 2024] [core:error] [pid 448:tid 1368] [client 127.0.0.1:54740] End of script output before headers: wp-cron.php

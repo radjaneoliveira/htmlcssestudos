@@ -1,0 +1,706 @@
+[11-Jan-2024 17:41:13 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:41:13 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:44:23 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:44:56 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-login.php(12): require('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\update.php(16): require_once('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:45:48 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\update.php(16): require_once('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:57:51 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:57:52 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:57:58 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\theme-install.php(10): require_once('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:57:59 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:58:00 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:58:01 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:58:05 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\plugin-install.php(16): require_once('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:58:05 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:58:06 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:58:07 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:58:16 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:58:17 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:58:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:58:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:58:50 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:58:51 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:58:54 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:59:05 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[11-Jan-2024 17:59:08 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:08:03 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:08:03 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:08:03 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:08:20 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:08:21 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:11:51 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:11:52 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:11:52 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:11:59 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:12:19 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:12:29 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:12:30 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:24:55 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:24:55 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:25:04 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:25:06 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:25:09 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:25:58 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:26:01 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[12-Jan-2024 01:26:20 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[14-Jan-2024 06:09:28 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[14-Jan-2024 06:09:28 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[14-Jan-2024 06:09:28 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[14-Jan-2024 06:09:28 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-cron.php(46): require_once('C:\\Users\\Jobsj\\...')
+#9 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[14-Jan-2024 06:09:57 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
+[14-Jan-2024 06:09:59 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\Promotions\Module" not found in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php:449
+Stack trace:
+#0 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(723): Elementor\Settings->__construct()
+#1 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#2 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#3 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-settings.php(643): do_action('init')
+#6 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-config.php(103): require_once('C:\\Users\\Jobsj\\...')
+#7 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-load.php(50): require_once('C:\\Users\\Jobsj\\...')
+#8 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jobsj\\...')
+#9 C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\index.php(17): require('C:\\Users\\Jobsj\\...')
+#10 {main}
+  thrown in C:\Users\Jobsj\OneDrive\Área de Trabalho\localwp\jobsrad\app\public\wp-content\plugins\elementor\includes\settings\settings.php on line 449
